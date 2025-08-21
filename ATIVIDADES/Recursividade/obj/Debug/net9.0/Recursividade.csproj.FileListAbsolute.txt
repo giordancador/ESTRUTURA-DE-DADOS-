@@ -1,0 +1,15 @@
+C:\CIENCIAS DA COMPUTAÇÃO\ESTRUTURA DE DADOS\ATIVIDADES\Recursividade\bin\Debug\net9.0\Recursividade.exe
+C:\CIENCIAS DA COMPUTAÇÃO\ESTRUTURA DE DADOS\ATIVIDADES\Recursividade\bin\Debug\net9.0\Recursividade.deps.json
+C:\CIENCIAS DA COMPUTAÇÃO\ESTRUTURA DE DADOS\ATIVIDADES\Recursividade\bin\Debug\net9.0\Recursividade.runtimeconfig.json
+C:\CIENCIAS DA COMPUTAÇÃO\ESTRUTURA DE DADOS\ATIVIDADES\Recursividade\bin\Debug\net9.0\Recursividade.dll
+C:\CIENCIAS DA COMPUTAÇÃO\ESTRUTURA DE DADOS\ATIVIDADES\Recursividade\bin\Debug\net9.0\Recursividade.pdb
+C:\CIENCIAS DA COMPUTAÇÃO\ESTRUTURA DE DADOS\ATIVIDADES\Recursividade\obj\Debug\net9.0\Recursividade.GeneratedMSBuildEditorConfig.editorconfig
+C:\CIENCIAS DA COMPUTAÇÃO\ESTRUTURA DE DADOS\ATIVIDADES\Recursividade\obj\Debug\net9.0\Recursividade.AssemblyInfoInputs.cache
+C:\CIENCIAS DA COMPUTAÇÃO\ESTRUTURA DE DADOS\ATIVIDADES\Recursividade\obj\Debug\net9.0\Recursividade.AssemblyInfo.cs
+C:\CIENCIAS DA COMPUTAÇÃO\ESTRUTURA DE DADOS\ATIVIDADES\Recursividade\obj\Debug\net9.0\Recursividade.csproj.CoreCompileInputs.cache
+C:\CIENCIAS DA COMPUTAÇÃO\ESTRUTURA DE DADOS\ATIVIDADES\Recursividade\obj\Debug\net9.0\Recursividade.sourcelink.json
+C:\CIENCIAS DA COMPUTAÇÃO\ESTRUTURA DE DADOS\ATIVIDADES\Recursividade\obj\Debug\net9.0\Recursividade.dll
+C:\CIENCIAS DA COMPUTAÇÃO\ESTRUTURA DE DADOS\ATIVIDADES\Recursividade\obj\Debug\net9.0\refint\Recursividade.dll
+C:\CIENCIAS DA COMPUTAÇÃO\ESTRUTURA DE DADOS\ATIVIDADES\Recursividade\obj\Debug\net9.0\Recursividade.pdb
+C:\CIENCIAS DA COMPUTAÇÃO\ESTRUTURA DE DADOS\ATIVIDADES\Recursividade\obj\Debug\net9.0\Recursividade.genruntimeconfig.cache
+C:\CIENCIAS DA COMPUTAÇÃO\ESTRUTURA DE DADOS\ATIVIDADES\Recursividade\obj\Debug\net9.0\ref\Recursividade.dll
