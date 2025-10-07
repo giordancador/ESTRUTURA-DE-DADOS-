@@ -1,0 +1,15 @@
+C:\CIENCIAS DA COMPUTAÇÃO\ESTRUTURA DE DADOS\ATIVIDADES\Pilhas\bin\Debug\net9.0\Pilhas.exe
+C:\CIENCIAS DA COMPUTAÇÃO\ESTRUTURA DE DADOS\ATIVIDADES\Pilhas\bin\Debug\net9.0\Pilhas.deps.json
+C:\CIENCIAS DA COMPUTAÇÃO\ESTRUTURA DE DADOS\ATIVIDADES\Pilhas\bin\Debug\net9.0\Pilhas.runtimeconfig.json
+C:\CIENCIAS DA COMPUTAÇÃO\ESTRUTURA DE DADOS\ATIVIDADES\Pilhas\bin\Debug\net9.0\Pilhas.dll
+C:\CIENCIAS DA COMPUTAÇÃO\ESTRUTURA DE DADOS\ATIVIDADES\Pilhas\bin\Debug\net9.0\Pilhas.pdb
+C:\CIENCIAS DA COMPUTAÇÃO\ESTRUTURA DE DADOS\ATIVIDADES\Pilhas\obj\Debug\net9.0\Pilhas.GeneratedMSBuildEditorConfig.editorconfig
+C:\CIENCIAS DA COMPUTAÇÃO\ESTRUTURA DE DADOS\ATIVIDADES\Pilhas\obj\Debug\net9.0\Pilhas.AssemblyInfoInputs.cache
+C:\CIENCIAS DA COMPUTAÇÃO\ESTRUTURA DE DADOS\ATIVIDADES\Pilhas\obj\Debug\net9.0\Pilhas.AssemblyInfo.cs
+C:\CIENCIAS DA COMPUTAÇÃO\ESTRUTURA DE DADOS\ATIVIDADES\Pilhas\obj\Debug\net9.0\Pilhas.csproj.CoreCompileInputs.cache
+C:\CIENCIAS DA COMPUTAÇÃO\ESTRUTURA DE DADOS\ATIVIDADES\Pilhas\obj\Debug\net9.0\Pilhas.sourcelink.json
+C:\CIENCIAS DA COMPUTAÇÃO\ESTRUTURA DE DADOS\ATIVIDADES\Pilhas\obj\Debug\net9.0\Pilhas.dll
+C:\CIENCIAS DA COMPUTAÇÃO\ESTRUTURA DE DADOS\ATIVIDADES\Pilhas\obj\Debug\net9.0\refint\Pilhas.dll
+C:\CIENCIAS DA COMPUTAÇÃO\ESTRUTURA DE DADOS\ATIVIDADES\Pilhas\obj\Debug\net9.0\Pilhas.pdb
+C:\CIENCIAS DA COMPUTAÇÃO\ESTRUTURA DE DADOS\ATIVIDADES\Pilhas\obj\Debug\net9.0\Pilhas.genruntimeconfig.cache
+C:\CIENCIAS DA COMPUTAÇÃO\ESTRUTURA DE DADOS\ATIVIDADES\Pilhas\obj\Debug\net9.0\ref\Pilhas.dll

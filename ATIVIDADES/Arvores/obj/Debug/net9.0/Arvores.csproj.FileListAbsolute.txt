@@ -1,0 +1,15 @@
+C:\CIENCIAS DA COMPUTAÇÃO\ESTRUTURA DE DADOS\ATIVIDADES\Arvores\bin\Debug\net9.0\Arvores.exe
+C:\CIENCIAS DA COMPUTAÇÃO\ESTRUTURA DE DADOS\ATIVIDADES\Arvores\bin\Debug\net9.0\Arvores.deps.json
+C:\CIENCIAS DA COMPUTAÇÃO\ESTRUTURA DE DADOS\ATIVIDADES\Arvores\bin\Debug\net9.0\Arvores.runtimeconfig.json
+C:\CIENCIAS DA COMPUTAÇÃO\ESTRUTURA DE DADOS\ATIVIDADES\Arvores\bin\Debug\net9.0\Arvores.dll
+C:\CIENCIAS DA COMPUTAÇÃO\ESTRUTURA DE DADOS\ATIVIDADES\Arvores\bin\Debug\net9.0\Arvores.pdb
+C:\CIENCIAS DA COMPUTAÇÃO\ESTRUTURA DE DADOS\ATIVIDADES\Arvores\obj\Debug\net9.0\Arvores.GeneratedMSBuildEditorConfig.editorconfig
+C:\CIENCIAS DA COMPUTAÇÃO\ESTRUTURA DE DADOS\ATIVIDADES\Arvores\obj\Debug\net9.0\Arvores.AssemblyInfoInputs.cache
+C:\CIENCIAS DA COMPUTAÇÃO\ESTRUTURA DE DADOS\ATIVIDADES\Arvores\obj\Debug\net9.0\Arvores.AssemblyInfo.cs
+C:\CIENCIAS DA COMPUTAÇÃO\ESTRUTURA DE DADOS\ATIVIDADES\Arvores\obj\Debug\net9.0\Arvores.csproj.CoreCompileInputs.cache
+C:\CIENCIAS DA COMPUTAÇÃO\ESTRUTURA DE DADOS\ATIVIDADES\Arvores\obj\Debug\net9.0\Arvores.sourcelink.json
+C:\CIENCIAS DA COMPUTAÇÃO\ESTRUTURA DE DADOS\ATIVIDADES\Arvores\obj\Debug\net9.0\Arvores.dll
+C:\CIENCIAS DA COMPUTAÇÃO\ESTRUTURA DE DADOS\ATIVIDADES\Arvores\obj\Debug\net9.0\refint\Arvores.dll
+C:\CIENCIAS DA COMPUTAÇÃO\ESTRUTURA DE DADOS\ATIVIDADES\Arvores\obj\Debug\net9.0\Arvores.pdb
+C:\CIENCIAS DA COMPUTAÇÃO\ESTRUTURA DE DADOS\ATIVIDADES\Arvores\obj\Debug\net9.0\Arvores.genruntimeconfig.cache
+C:\CIENCIAS DA COMPUTAÇÃO\ESTRUTURA DE DADOS\ATIVIDADES\Arvores\obj\Debug\net9.0\ref\Arvores.dll
