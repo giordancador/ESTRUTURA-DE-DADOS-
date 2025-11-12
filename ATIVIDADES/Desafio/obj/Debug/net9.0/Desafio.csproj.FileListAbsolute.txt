@@ -1,0 +1,15 @@
+C:\CIENCIAS DA COMPUTAÇÃO\ESTRUTURA DE DADOS\ATIVIDADES\Desafio\bin\Debug\net9.0\Desafio.exe
+C:\CIENCIAS DA COMPUTAÇÃO\ESTRUTURA DE DADOS\ATIVIDADES\Desafio\bin\Debug\net9.0\Desafio.deps.json
+C:\CIENCIAS DA COMPUTAÇÃO\ESTRUTURA DE DADOS\ATIVIDADES\Desafio\bin\Debug\net9.0\Desafio.runtimeconfig.json
+C:\CIENCIAS DA COMPUTAÇÃO\ESTRUTURA DE DADOS\ATIVIDADES\Desafio\bin\Debug\net9.0\Desafio.dll
+C:\CIENCIAS DA COMPUTAÇÃO\ESTRUTURA DE DADOS\ATIVIDADES\Desafio\bin\Debug\net9.0\Desafio.pdb
+C:\CIENCIAS DA COMPUTAÇÃO\ESTRUTURA DE DADOS\ATIVIDADES\Desafio\obj\Debug\net9.0\Desafio.GeneratedMSBuildEditorConfig.editorconfig
+C:\CIENCIAS DA COMPUTAÇÃO\ESTRUTURA DE DADOS\ATIVIDADES\Desafio\obj\Debug\net9.0\Desafio.AssemblyInfoInputs.cache
+C:\CIENCIAS DA COMPUTAÇÃO\ESTRUTURA DE DADOS\ATIVIDADES\Desafio\obj\Debug\net9.0\Desafio.AssemblyInfo.cs
+C:\CIENCIAS DA COMPUTAÇÃO\ESTRUTURA DE DADOS\ATIVIDADES\Desafio\obj\Debug\net9.0\Desafio.csproj.CoreCompileInputs.cache
+C:\CIENCIAS DA COMPUTAÇÃO\ESTRUTURA DE DADOS\ATIVIDADES\Desafio\obj\Debug\net9.0\Desafio.sourcelink.json
+C:\CIENCIAS DA COMPUTAÇÃO\ESTRUTURA DE DADOS\ATIVIDADES\Desafio\obj\Debug\net9.0\Desafio.dll
+C:\CIENCIAS DA COMPUTAÇÃO\ESTRUTURA DE DADOS\ATIVIDADES\Desafio\obj\Debug\net9.0\refint\Desafio.dll
+C:\CIENCIAS DA COMPUTAÇÃO\ESTRUTURA DE DADOS\ATIVIDADES\Desafio\obj\Debug\net9.0\Desafio.pdb
+C:\CIENCIAS DA COMPUTAÇÃO\ESTRUTURA DE DADOS\ATIVIDADES\Desafio\obj\Debug\net9.0\Desafio.genruntimeconfig.cache
+C:\CIENCIAS DA COMPUTAÇÃO\ESTRUTURA DE DADOS\ATIVIDADES\Desafio\obj\Debug\net9.0\ref\Desafio.dll
