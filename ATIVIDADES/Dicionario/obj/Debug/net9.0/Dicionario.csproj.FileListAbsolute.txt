@@ -1,0 +1,15 @@
+c:\CIENCIAS DA COMPUTAÇÃO\ESTRUTURA DE DADOS\ATIVIDADES\Dicionario\bin\Debug\net9.0\Dicionario.exe
+c:\CIENCIAS DA COMPUTAÇÃO\ESTRUTURA DE DADOS\ATIVIDADES\Dicionario\bin\Debug\net9.0\Dicionario.deps.json
+c:\CIENCIAS DA COMPUTAÇÃO\ESTRUTURA DE DADOS\ATIVIDADES\Dicionario\bin\Debug\net9.0\Dicionario.runtimeconfig.json
+c:\CIENCIAS DA COMPUTAÇÃO\ESTRUTURA DE DADOS\ATIVIDADES\Dicionario\bin\Debug\net9.0\Dicionario.dll
+c:\CIENCIAS DA COMPUTAÇÃO\ESTRUTURA DE DADOS\ATIVIDADES\Dicionario\bin\Debug\net9.0\Dicionario.pdb
+c:\CIENCIAS DA COMPUTAÇÃO\ESTRUTURA DE DADOS\ATIVIDADES\Dicionario\obj\Debug\net9.0\Dicionario.GeneratedMSBuildEditorConfig.editorconfig
+c:\CIENCIAS DA COMPUTAÇÃO\ESTRUTURA DE DADOS\ATIVIDADES\Dicionario\obj\Debug\net9.0\Dicionario.AssemblyInfoInputs.cache
+c:\CIENCIAS DA COMPUTAÇÃO\ESTRUTURA DE DADOS\ATIVIDADES\Dicionario\obj\Debug\net9.0\Dicionario.AssemblyInfo.cs
+c:\CIENCIAS DA COMPUTAÇÃO\ESTRUTURA DE DADOS\ATIVIDADES\Dicionario\obj\Debug\net9.0\Dicionario.csproj.CoreCompileInputs.cache
+c:\CIENCIAS DA COMPUTAÇÃO\ESTRUTURA DE DADOS\ATIVIDADES\Dicionario\obj\Debug\net9.0\Dicionario.sourcelink.json
+c:\CIENCIAS DA COMPUTAÇÃO\ESTRUTURA DE DADOS\ATIVIDADES\Dicionario\obj\Debug\net9.0\Dicionario.dll
+c:\CIENCIAS DA COMPUTAÇÃO\ESTRUTURA DE DADOS\ATIVIDADES\Dicionario\obj\Debug\net9.0\refint\Dicionario.dll
+c:\CIENCIAS DA COMPUTAÇÃO\ESTRUTURA DE DADOS\ATIVIDADES\Dicionario\obj\Debug\net9.0\Dicionario.pdb
+c:\CIENCIAS DA COMPUTAÇÃO\ESTRUTURA DE DADOS\ATIVIDADES\Dicionario\obj\Debug\net9.0\Dicionario.genruntimeconfig.cache
+c:\CIENCIAS DA COMPUTAÇÃO\ESTRUTURA DE DADOS\ATIVIDADES\Dicionario\obj\Debug\net9.0\ref\Dicionario.dll
